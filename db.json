@@ -1,16 +1,121 @@
 {
-  "posts":[
+  "characters": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
+      "id": 1,
+      "name": "Sem",
+      "image": "https://mario.wiki.gallery/images/thumb/7/7f/MK8_ShyGuy_Icon.png/64px-MK8_ShyGuy_Icon.png"
+    },
+    {
+      "id": 2,
+      "name": "Wicky",
+      "image": "https://mario.wiki.gallery/images/thumb/4/45/MK8_Toad_Icon.png/64px-MK8_Toad_Icon.png"
+    },
+    {
+      "id": 3,
+      "name": "Marvin",
+      "image": "https://mario.wiki.gallery/images/thumb/3/3f/MK8DX_Dry_Bones_Icon.png/64px-MK8DX_Dry_Bones_Icon.png"
+    },
+    {
+      "id": 4,
+      "name": "Menno",
+      "image": "https://mario.wiki.gallery/images/thumb/7/7d/MK8_Lakitu_Icon.png/64px-MK8_Lakitu_Icon.png"
+    },
+    {
+      "id": 5,
+      "name": "Matthijs",
+      "image": "https://mario.wiki.gallery/images/thumb/a/a2/MK8_Tanooki_Mario_Icon.png/64px-MK8_Tanooki_Mario_Icon.png"
+    },
+    {
+      "id": 6,
+      "name": "Sjors",
+      "image": "https://mario.wiki.gallery/images/thumb/3/3c/MK8DX_Male_Inkling_Icon.png/64px-MK8DX_Male_Inkling_Icon.png"
+    },
+    {
+      "id": 7,
+      "name": "Thijs",
+      "image": "https://mario.wiki.gallery/images/thumb/2/26/MK8_Bowser_Jr_Icon.png/64px-MK8_Bowser_Jr_Icon.png"
+    },
+    {
+      "id": 8,
+      "name": "Monika",
+      "image": "https://mario.wiki.gallery/images/thumb/9/91/MK8_Yoshi_Icon.png/64px-MK8_Yoshi_Icon.png"
+    },
+    {
+      "id": 9,
+      "name": "Burak",
+      "image": "https://mario.wiki.gallery/images/thumb/d/d2/MK8_BabyMario_Icon.png/64px-MK8_BabyMario_Icon.png"
     }
   ],
-  "comments" : [
+  "races": [
     {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "racer1": 3,
+      "racer2": 6,
+      "averagePoints": 30,
+      "date": 1623951409313,
+      "id": 1
+    },
+    {
+      "racer1": 7,
+      "racer2": 2,
+      "averagePoints": 20,
+      "date": 1623951409314,
+      "id": 2
+    },
+    {
+      "racer1": 2,
+      "racer2": 3,
+      "averagePoints": 30,
+      "date": 1623951440731,
+      "id": 3
+    },
+    {
+      "racer1": 7,
+      "racer2": 4,
+      "averagePoints": 5,
+      "date": 1623951440732,
+      "id": 4
+    },
+    {
+      "racer1": 1,
+      "racer2": 2,
+      "averagePoints": 7.5,
+      "date": 1623951510921,
+      "id": 5
+    },
+    {
+      "racer1": 3,
+      "racer2": 4,
+      "averagePoints": 12.5,
+      "date": 1623951510922,
+      "id": 6
+    },
+    {
+      "racer1": 4,
+      "racer2": 5,
+      "averagePoints": 12.5,
+      "date": 1623951518437,
+      "id": 7
+    },
+    {
+      "racer1": 7,
+      "racer2": 3,
+      "averagePoints": 20,
+      "date": 1623951518438,
+      "id": 8
+    },
+    {
+      "racer1": 8,
+      "racer2": 5,
+      "averagePoints": 10,
+      "date": 1623951525212,
+      "id": 9
+    },
+    {
+      "racer1": 1,
+      "racer2": 9,
+      "averagePoints": 15,
+      "date": 1623951525213,
+      "id": 10
     }
   ]
 }
